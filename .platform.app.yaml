@@ -1,4 +1,4 @@
-name: "ll_project"
+name: "learning_log_project"
 type: "python:3.11"
 
 relationships:
